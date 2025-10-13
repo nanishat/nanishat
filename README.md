@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanishat&label=Profile%20views&color=0e75b6&style=flat" alt="nanishat" /> </p>
 
-- 🔭 I’m currently working on **Chatbot**
+- 🔭 I’m currently working on **E Commerce**
 
 - 🌱 I’m currently learning **React JS**
 
