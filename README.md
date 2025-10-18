@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **E Commerce**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 💬 Ask me about **Waterfall & Agile Methodology**
 
