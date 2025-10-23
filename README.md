@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nanishat&label=Profile%20views&color=0e75b6&style=flat" alt="nanishat" /> </p>
 
-<h3 align="center" >Aspiring Software Developer based in Dhaka, Bangladesh with a passion for crafting seamless digital solutions</h3>
+<h3 align="center" >Aspiring Software Developer from Dhaka, crafting clean and impactful digital solutions</h3>
 
 💻 Currently building scalable **Full-Stack applications** with a focus on clean architecture.  
 🌱 Deep-diving into **Node.js**, REST APIs, and cloud deployment pipelines.  
