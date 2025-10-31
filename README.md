@@ -16,18 +16,19 @@
 ⚛️ Passionate about crafting intuitive UIs using **React**, **Next.js**, and modern design systems.  
 💬 Open to discussions on **frontend performance**, **API design**, and **microservice structures**.  
 
-<h3 align="left">Languages 🌐 </h3>
+<h4 align="left">Languages 🌐 </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,cpp,bash,html,css)](https://skillicons.dev)
 
-<h3 align="left">Frameworks 👨🏻‍💻 </h3>
+<h4 align="left">Frameworks 👨🏻‍💻 </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express)](https://skillicons.dev)
 
-<h3 align="left">Tools 🛠️ </h3>
+<h4 align="left">Tools 🛠️ </h4>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,mysql,postman,figma,linux)](https://skillicons.dev)
 
+<h3 align="left">My Stats 📊 </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanishat&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
   
