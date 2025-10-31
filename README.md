@@ -16,9 +16,17 @@
 ⚛️ Passionate about crafting intuitive UIs using **React**, **Next.js**, and modern design systems.  
 💬 Open to discussions on **frontend performance**, **API design**, and **microservice structures**.  
 
-<h3 align="left">Languages and Tools 👨🏻‍💻 </h3>
+<h3 align="left">Languages 🌐 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,js,ts,py,java,bash,tailwind,html,css,mysql,vscode,git,postman,idea,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,cpp,bash,html,css)](https://skillicons.dev)
+
+<h3 align="left">Frameworks 👨🏻‍💻 </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express)](https://skillicons.dev)
+
+<h3 align="left">Tools 🛠️ </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,mysql,postman,figma,linux)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanishat&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
@@ -27,10 +35,16 @@
 
 <h3 align="center">Connect with me 🛜</h3>
 <p align="center">
-  <a href="mailto:mujnebinsaiful@gmail.com" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  <a href="mailto:mujnebinsaiful@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
-  <a href="https://linkedin.com/in/mujnebin-safiul" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mujnebin-safiul" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/702535873450999838" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" />
   </a>
 </p>
+
