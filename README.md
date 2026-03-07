@@ -30,9 +30,9 @@
 
 <h3 align="left">My Stats 📊 </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanishat&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
+<p><img align="left" src="https://github-readme-stats-zeta-five-81.vercel.app/api/top-langs?username=nanishat&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
   
-![Safiul Mujnebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanishat&show_icons=true&theme=tokyonight)
+![Safiul Mujnebin's GitHub stats](https://github-readme-stats-zeta-five-81.vercel.app/api?username=nanishat&show_icons=true&theme=tokyonight)
 
 <h3 align="center">Connect with me 🛜</h3>
 <p align="center">
