@@ -11,10 +11,11 @@
 
 <h3 align="center" >Aspiring Software Developer from Dhaka, crafting clean and impactful digital solutions</h3>
 
-💻 Currently building scalable **Full-Stack applications** with a focus on clean architecture.  
-🌱 Deep-diving into **Node.js**, REST APIs, and cloud deployment pipelines.  
-⚛️ Passionate about crafting intuitive UIs using **React**, **Next.js**, and modern design systems.  
-💬 Open to discussions on **frontend performance**, **API design**, and **microservice structures**.  
+⚛️ Full-stack dev passionate about **React**, **Next.js** & modern design systems.<br>
+🔧 Backend side: **Node.js**, **REST APIs** & clean architecture.<br>
+☁️ Growing into cloud-native deployments with **GCP**.<br>
+🏗️ Side quest: building an **ERP from scratch** with Odoo 18.<br>
+💬 Let's talk **API design**, **frontend performance** or **microservice structures**.
 
 <h4 align="left">Languages 🌐 </h4>
 
