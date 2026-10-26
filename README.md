@@ -1,4 +1,4 @@
-<h1  align="center">
+<h1 align="center">
   Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br>
   I'm <strong>Safiul Mujnebin</strong> 👨‍💻
 </h1>
@@ -7,37 +7,65 @@
   <b><i>Persistent by nature, driven by results</i></b>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nanishat&label=Profile%20views&color=0e75b6&style=flat" alt="nanishat" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nanishat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<h3 align="center" >Aspiring Software Developer from Dhaka, crafting clean and impactful digital solutions</h3>
+<h3 align="center">Backend & Security-Focused Software Engineer from Dhaka</h3>
 
-⚛️ Full-stack dev passionate about **React**, **Next.js** & modern design systems.<br>
-🔧 Backend side: **Node.js**, **REST APIs** & clean architecture.<br>
-☁️ Growing into cloud-native deployments with **GCP**.<br>
-🏗️ Side quest: building an **ERP from scratch** with Odoo 18.<br>
-💬 Let's talk **API design**, **frontend performance** or **microservice structures**.
+<br>
 
-<h4 align="left">Languages 🌐 </h4>
+<div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,cpp,bash,html,css)](https://skillicons.dev)
+* 💻 **Backend:** REST APIs & Microservices (`Node.js`, `Express`, `TypeScript`, `Prisma`)
+* 🛡️ **Security:** Application hardening, container security & vulnerability mitigation
+* 🗄️ **Databases:** Production schema modeling & data logic (`PostgreSQL`, `MySQL`)
+* ☁️ **Cloud & Linux:** VM provisioning, Nginx reverse proxies & container deployments
+</div>
 
-<h4 align="left">Frameworks 👨🏻‍💻 </h4>
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express)](https://skillicons.dev)
+---
 
-<h4 align="left">Tools 🛠️ </h4>
+<h3 align="left">🛠️ Tech Stack & Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,mysql,postman,figma,linux)](https://skillicons.dev)
+<table align="center">
+  <tr>
+    <td align="left"><b>Languages:</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,bash,html,css" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Backend & DB:</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,prisma" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>DevOps & Security:</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,bash" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Frontend & Tools:</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vscode,postman" /></td>
+  </tr>
+</table>
 
-<h3 align="left">My Stats 📊 </h3>
+---
 
-<p><img align="left" src="https://github-readme-stats-zeta-five-81.vercel.app/api/top-langs?username=nanishat&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
-  
-![Safiul Mujnebin's GitHub stats](https://github-readme-stats-zeta-five-81.vercel.app/api?username=nanishat&show_icons=true&theme=tokyonight)
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats-zeta-five-81.vercel.app/api?username=nanishat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-zeta-five-81.vercel.app/api/top-langs?username=nanishat&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanishat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 <h3 align="center">Connect with me 🛜</h3>
 <p align="center">
-  <a href="mailto:mujnebinsaiful@gmail.com" target="_blank">
+  <a href="mailto:mujnebinsafiul@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -49,4 +77,3 @@
     <img src="https://skillicons.dev/icons?i=discord" width="40" />
   </a>
 </p>
-
